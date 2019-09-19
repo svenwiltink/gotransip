@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/swiltink/gotransip/v5"
-	"github.com/swiltink/gotransip/v5/util"
+	"github.com/svenwiltink/gotransip/v5"
+	"github.com/svenwiltink/gotransip/v5/util"
 )
 
 // This file holds all VpsService methods directly ported from TransIP API

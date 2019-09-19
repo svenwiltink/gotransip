@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"github.com/swiltink/gotransip/v5"
+	"github.com/svenwiltink/gotransip/v5"
 )
 
 // This file holds all DomainService methods directly ported from TransIP API

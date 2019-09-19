@@ -13,8 +13,8 @@ package main
 import (
   "fmt"
 
-  "github.com/swiltink/gotransip/v5"
-  "github.com/swiltink/gotransip/v5/vps"
+  "github.com/svenwiltink/gotransip/v5"
+  "github.com/svenwiltink/gotransip/v5/vps"
 )
 
 func main() {
