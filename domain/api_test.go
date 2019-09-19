@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/transip/gotransip"
+	"github.com/transip/gotransip/v5"
 )
 
 func TestBatchCheckAvailability(t *testing.T) {
