@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/transip/gotransip/v5/util"
-	"github.com/transip/gotransip/v5/vps"
+	"github.com/swiltink/gotransip/v5/util"
+	"github.com/swiltink/gotransip/v5/vps"
 )
 
 const (

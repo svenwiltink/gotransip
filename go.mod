@@ -1,4 +1,4 @@
-module github.com/transip/gotransip/v5
+module github.com/swiltink/gotransip/v5
 
 require github.com/stretchr/testify v1.3.0
 

@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/transip/gotransip/v5"
+	"github.com/swiltink/gotransip/v5"
 )
 
 func TestGetColoNames(t *testing.T) {

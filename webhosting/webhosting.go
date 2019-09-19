@@ -3,7 +3,7 @@ package webhosting
 import (
 	"fmt"
 
-	"github.com/transip/gotransip/v5"
+	"github.com/swiltink/gotransip/v5"
 )
 
 const (

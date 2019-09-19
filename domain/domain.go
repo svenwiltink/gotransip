@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/transip/gotransip/v5"
-	"github.com/transip/gotransip/v5/util"
+	"github.com/swiltink/gotransip/v5"
+	"github.com/swiltink/gotransip/v5/util"
 )
 
 const (
